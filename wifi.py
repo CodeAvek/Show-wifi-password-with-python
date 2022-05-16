@@ -1,8 +1,6 @@
 import os
-os.system('pkg install python')
-os.system('pkg install requests')
-os.system('pip install pyfiglet')
 os.system('pip install subprocess.run')
+os.system('pip install pyfiglet')
 
 # first we will import the subprocess module
 import subprocess
